@@ -76,7 +76,7 @@ You should probably also add `:toc:` at the top of your document, to ensure that
 
 Clone this https://github.com/spring-guides/topical-guides[repository]
 and edit the README to contain the content of your guide. Currently we
-can only support guides in Asciidoctor[http://asciidoctor.org/] but
+can only support guides in Asciidoctor[https://asciidoctor.org/] but
 Markdown[https://guides.github.com/features/mastering-markdown/]
 support is planned. Add images, code, etc. directly in your fork. You
 are encouraged to use advanced features of Asciidoctor if you need
